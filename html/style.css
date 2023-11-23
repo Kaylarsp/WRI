@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+div {
+    display: inline-block;
+    background-color: rgb(165, 130, 85);
+    padding-left: 2cm;
+    padding-right: 2cm;
+    padding-bottom: 1cm;
+    margin-top: 1cm;
+    margin-left: 13cm;
+    margin-right: 10cm;
+    text-align: center;
+    row-gap: 1cm;
+}
+.title {
+    text-align: center;
+}
+.subtitle {
+    text-align: center;
+}
