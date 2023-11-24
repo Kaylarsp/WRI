@@ -13,8 +13,8 @@ h1 {
     text-align: center;
     display: flex;
     flex-direction: row;
-    justify-content: ;
-    align-items: last baseline;
+    justify-content: space-between;
+    align-items: center;
     /* background-color: black; */
     flex-wrap: wrap;
 }
