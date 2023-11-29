@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(27, 85, 65);
+}
+nav {
+    display: flex;
+    padding: 1px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: beige;
+    font-weight: bold;
+    font-size: 20px;
+}
+p {
+    padding: 5px;
+}
+ul {
+    display: flex;
+    overflow-y: visible;
+    padding: 1rem;
+    gap: 1rem;
+}
+main {
+    align-items: center;
+}
